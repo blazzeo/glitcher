@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-nokhwa = "0.10.7"
+nokhwa = { version = "0.10.7", features = ["input-native"]}
